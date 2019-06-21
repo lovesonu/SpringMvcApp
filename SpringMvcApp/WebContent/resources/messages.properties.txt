@@ -1,0 +1,11 @@
+Size.user.name=Name must be between {2} and {1} characters long
+NotNull.user.email = please enter email
+NotNull.user.phone = phone number can not be blank
+Size.user.username = please enter correct userName //userName {0} already exist. Please fill in different value.
+Size.user.password = please enter correct password
+Size.user.country = choose Country from drop down list
+Size.user.state = choose State from drop down list
+Size.user.city = choose City from drop down list 
+Size.user.area = choose Area from drop down list
+Digits.user.pincode = Only numeric data with max 8 digits and with max 2 precision is allowed  
+typeMismatch=Invalid format
